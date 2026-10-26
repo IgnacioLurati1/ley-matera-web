@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://leymaterarosario.com.ar/sitemap.xml
